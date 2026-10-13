@@ -8,7 +8,7 @@ header:
       fr      : &FR       Les petit tips
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /tips/
+    url: /QuickGuide/
     children:
       title: intro
       url: /guide/intro
@@ -33,30 +33,29 @@ guide-page:
   - title: Facile
     children:
       - title: Moteur de recherche
-        url: /guide/intro
+        url: /guide/quick-guide
       - title: Navigateur
-        url: /guide/intro
+        url: /guide/intros
       - title: Cartes
-        url: /guide/intro
+        url: /guide/intros
       - title: Médias
-        url: /guide/intro
-
+        url: /guide/intros
   - title: Intermédiaire
     children:
       - title: Productivité
-        url: /guide/intro
+        url: /guide/intros
       - title: Notes
-        url: /guide/intro
+        url: /guide/intros
       - title: Mail
-        url: /guide/intro
+        url: /guide/intros
       - title: Cloud
-        url: /guide/intro
+        url: /guide/intros
       - title: Telephone
-        url: /guide/intro
+        url: /guide/intros
 
   - title: Dur
     children:
       - title: Système d'exploitation (PC)
-        url: /guide/intro
+        url: /guide/intros
       - title: Système d'exploitation (Mobile)
-        url: /guide/intro
+        url: /guide/intros

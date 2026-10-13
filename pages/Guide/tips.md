@@ -1,12 +1,32 @@
 ---
-layout: article
+layout: lc-articles
 title: Guide Rapide
-permalink: /QuickGuide/
+permalink: guide/quick-guide
+key: quick-guide
+
+sidebar:
+  nav: guide-page
 ---
 
-Coucou ceci est une version "Lecture Rapide" d'un guide sur lequel je travail pour trouver des alternatives aux GAFAM et aux grosse corpo. Il y a pleins de raisons géopolitique et sociales qui me font m'écarter de ces grosses entreprises. Je pense faire un plus gros guide avec plus de contexte géopolitique et tout mais on verra en temps et en heure. 
 
-Avant de commencer des précisions super importantes :
+Coucou ceci est une version *"Lecture Rapide"*{:.yellow} d'un guide sur lequel je travail pour trouver des alternatives aux GAFAM et aux grosse corpo. Il y a pleins de raisons géopolitique et sociales qui me font m'écarter de ces grosses entreprises. Je pense faire un plus gros guide avec plus de contexte géopolitique et tout mais on verra en temps et en heure. 
+
+Avant de 
+
+**commencer**
+{:.success} 
+
+`success`{:.success}
+
+Prout `success`{:.prout} prout 
+
+Prout `success de vomi`{:.yellow} prout 
+
+des précisions
+{:.vomi}  
+uhjehjfhuie
+
+super importantes : **précision de prout**{:.yellow}  ndjhdjiehdhe
 
 - Je suis pas ici pour faire de la pureté militante de bas étage : J'ai conscience que chaque cas et différent et qu'on à pas toustes le même temps ou les mêmes moyens financier ou techniques pour faire ce genre de Switch. Faite comme vous pouvez et surtout comme vous voulez. 
 - Oubliez pas que 1 c'est toujours plus que 0  Une recherche pas faite sur google, un switch d'une appli qui vous gêne pas trop c'est déja une victoire. 
@@ -66,6 +86,8 @@ Alors je me suis renseigné et d’après mes petites recherches :
 | [Organic Maps](https://organicmaps.app/)                                 | Le plus c'est qu'il faut télécharger les maps donc tout est local meme si on a pas internet ou quoi. Le moins c'est qu'il faut télécharger les maps c'est lourd de fou. Marche que sur tel | ✅✅   |
 | [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=en) | J'ai pas essayé mais fonctionne en ligne/hors ligne aussi askip. Basé sur Open Street Map                                                                                                  | ✅✅   |
 | [Here Wego](https://wego.here.com)                                       | C'est la meilleure alternative a Gmaps. Y a tout sauf les avis.                                                                                                                            | ✅✅✅  |
+
+
 Super important : toutes ces apps sont ==participatives== : hésitez pas à ajouter des infos (horaires, nouveaux lieux etc...) c'est comme ça que les apps vivent ! 
 
 ### Remplacer Amazon
