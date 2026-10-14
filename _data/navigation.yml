@@ -32,12 +32,12 @@ guide-page:
 
   - title: Facile
     children:
-      - title: Moteur de recherche
-        url: /guide/quick-guide
-      - title: Navigateur
-        url: /guide/intros
+      - title: Moteurs de recherche
+        url: /guide/moteurs
+      - title: Navigateurs
+        url: /guide/navigateurs
       - title: Cartes
-        url: /guide/intros
+        url: /guide/cartes
       - title: Médias
         url: /guide/intros
   - title: Intermédiaire

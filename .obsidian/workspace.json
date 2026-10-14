@@ -190,6 +190,11 @@
   },
   "active": "4f7c48a723decadd",
   "lastOpenFiles": [
+    "pages/Guide/facile/3.Navigateur.md",
+    "about.md",
+    "CHANGELOG.md",
+    "index.md",
+    "pages/Guide/1.Intro.md",
     "pages/Guide/_dur/8.Mail.md",
     "pages/Guide/_dur/6.Productivite copy.md",
     "pages/Guide/_dur/7.Notes.md",
@@ -230,11 +235,6 @@
     "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/README.md",
     "vendor/bundle/ruby/3.4.0/gems/jekyll-text-theme-2.2.6/README.md",
     "vendor/bundle/ruby/3.4.0/gems/jekyll-text-theme-2.2.6/CHANGELOG.md",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-time-machine-0.2.0/README.md",
-    "vendor/bundle/ruby/3.4.0/gems/minima-2.5.1/README.md",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-tactile-0.2.0/README.md",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-slate-0.2.0/README.md",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-primer-0.6.0/README.md",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-primer-0.6.0/LICENSE.md"
+    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-time-machine-0.2.0/README.md"
   ]
 }

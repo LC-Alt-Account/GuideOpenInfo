@@ -1,34 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: article
-title: G.A.B.T.
-sidebar:
-  nav: guide-page
+title: Bienvenue
 ---
+Sur mon **Guide Anti Big Tech**{:.yellow} ou vous trouverez des alternatives et des tips **anti big tech et pro alt tech.**{:.yellow} 
 
-# Pouet
+Ce site fait suite à un gros ras le bol de toujours donner mon argent et mes données aux même 4 pélo qui en font n'importe quoi. 
 
-Hello this is my site to talk about open source n stufff
+Évidement, on parle de changer des habitudes profondément ancré dans nos vies et nos quotidien donc c'est quasi impossible de passer de Google, Microsoft, Apple etc... aux alternatives en une soirée comme ça pouf. Même moi qui écrit ce guide j'en suis loin. Mais je pense que c'est important de savoir que **Des alternatives existent**{:.yellow}. 
 
-HEUIN 
-{:.success}
+Se renseigner sur tout ça m'as fait découvrir des outils et une communauté formidable orientée vers le partage de connaissance et l'accéssibilité pour tout le monde pas cellement celleux qui ont un porte monnaie. 
 
-lalalala 'Prout prout'{:.success}
+Vous pouvez commencer votre éxploration en cliquant sur les liens ci-dessous.
 
-```code
-QUOA ???``` {:.sucess}
+Bref merci de jeter un coup d'oeuil a mon taff et bonne lecture :) 
 
-Pouet **pouet**{:.yellow}
+Louis 
 
-Success Text.
-{:.success}
-
-Info Text.
-{:.info}
-
-Warning Text.
-{:.warning}
-
-Error Text.
-{:.error}
+- [Pour commencer à lire le guide]()
+- [Pour voit mes sources et des liens chouettees]()
+- [Pour en apprendre plus sur mes raisons et sur où j'en suis actuellement]()
+- [Pour me contacter]()
