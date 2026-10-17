@@ -11,26 +11,11 @@ sidebar:
 
 Coucou ceci est une version *"Lecture Rapide"*{:.yellow} d'un guide sur lequel je travail pour trouver des alternatives aux GAFAM et aux grosse corpo. Il y a pleins de raisons géopolitique et sociales qui me font m'écarter de ces grosses entreprises. Je pense faire un plus gros guide avec plus de contexte géopolitique et tout mais on verra en temps et en heure. 
 
-Avant de 
-
-**commencer**
-{:.success} 
-
-`success`{:.success}
-
-Prout `success`{:.prout} prout 
-
-Prout `success de vomi`{:.yellow} prout 
-
-des précisions
-{:.vomi}  
-uhjehjfhuie
-
-super importantes : **précision de prout**{:.yellow}  ndjhdjiehdhe
+Avant de commencer,  **Quelques importantes précision**{:.yellow}
 
 - Je suis pas ici pour faire de la pureté militante de bas étage : J'ai conscience que chaque cas et différent et qu'on à pas toustes le même temps ou les mêmes moyens financier ou techniques pour faire ce genre de Switch. Faite comme vous pouvez et surtout comme vous voulez. 
-- Oubliez pas que 1 c'est toujours plus que 0  Une recherche pas faite sur google, un switch d'une appli qui vous gêne pas trop c'est déja une victoire. 
-- Oui je sais que c'est ironique de parler d'anti GAFAM sur Insta et de le host sur Github mais justement ça montre à quel point ces géant se sont rendu indispensable.
+- Oubliez pas que 1 c'est toujours plus que 0  Une recherche pas faite sur google, un switch d'une appli qui vous gêne pas trop c'est déja une victoire. **Chaque étape vous rapproche de l'étape d'aprés**{:.yellow}
+- Oui je sais que c'est ironique de parler d'anti GAFAM sur Insta et de le host sur Github mais justement ça montre à quel point ces géant se sont rendu indispensable. Et je compte bien changer tout ça vite
 
 Et par rapport à ce document  : 
 
@@ -38,34 +23,6 @@ Et par rapport à ce document  :
 - Un switch n'est jamais définitif vous avez le droit de tester des services et de changer quand vous voulez. Testez pleins de trucs pour voir ce qui vous sieds le plus.
 
 Bonne lecture :) 
-
-## Niveau 1 : Prise en charge imédiate
-
-En gros ici c'est des switch simple : changer tel service pour un autre qui est plus éthique ou moins problématique. C'est des changements qui peuvent se faire instant et qui demandent quasi aucune mise a niveau technique ou ergonomique. 
-
-### Remplacer Google le moteur de recherche
-
-Il y à 1000 Moteurs de recherches différents qui ont tous leur avantages et inconvénient mais qui sont tjr mieux que d'utiliser google. Lors de mes recherches j'ai vu les différents moteur de recherches pop up.
-
-| Nom                                                                           | Avis                                                                                                                                                                                                                                                                                                                                               | Note                                 |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [Startpage](https://www.startpage.com/)                                       | Les recherches sont quali, à une approche orienté vie privée mais a des pubs "générales" (pas ciblé). Pas d'IA (ont un partenariat avec google pour les resultats)                                                                                                                                                                                 | ✅✅ ✅<br>(Celui que j'utilise sur pc) |
-| [DuckDuck Go](https://duckduckgo.com/)                                        | Les recherches sont ok. l'IA est la mais 100% customisable (retirer les résumé, image généré et chatbot). Niveau vie privée c'est ok mais y a des failles                                                                                                                                                                                          | ✅✅✅                                  |
-| [Brave search](https://search.brave.com/)                                     | Un peu comme duck duck go. Mais la ou DDG est en partenariat avec Bing pour les resultat lui est indé.                                                                                                                                                                                                                                             | ✅✅✅<br>(Je l'utilise sur mobile)     |
-| [Qwant](https://www.qwant.com/?l=en)                                          | Se base sur microsoft Bing pour les recherches (donc bof) mais trés orienté vie privé. (meme si certaine donnée sont donnée a microsoft)(et c'est français)                                                                                                                                                                                        | ✅✅                                   |
-| [Searx (lien 1)](https://searx.be/)<br>[Searx (lien 2)](https://searx.space/) | Je l'ai decouvert pendant mes recherches. Ça a l'air fine surtout niveau de la vie privée. Sans IA. Ça a un feeling trés google 2010. C'est un metamoteur donc pas basé sur juste google ou bing mais qui recherche un peu partout. J'ai pas tout compris mais je crois il y a plusieurs moteur basé sur la même technologie. (un peu comme linux) | ✅✅                                   |
-| [Swisscow](https://swisscows.com/en)                                          | Moins connu, appartiens a la suisse donc niveau vie privé c'est ok. certaines données sont passé a des publicitaires. Se veux fammily friendly donc pas de p0rn ou de violence                                                                                                                                                                     | ✅                                    |
-| [Ecosia](https://www.ecosia.org/)                                             | En fait c'est un scam. Ça a des liens avec google, ça dit ouais on est green mais ça a une IA.                                                                                                                                                                                                                                                     | ❌                                    |
-| [Google (sans ia)](https://www.google.com/)                                   | Reste le best en terme de résultat mais a quel prix ? Aucune vie privée vente a des data brokers, publicité résultat biaisé, IA omniprésente (sauf dans ce lien)                                                                                                                                                                                   | ❌❌                                   |
-| [Bing](https://www.bing.com/)                                                 | Ptdr                                                                                                                                                                                                                                                                                                                                               | ❌❌❌                                  |
-| [Kagi](https://kagi.com/welcome)                                              | Askip c'est top mais c'est payant                                                                                                                                                                                                                                                                                                                  | ❓❓❓                                  |
-
-### Remplacer Google Chrome
-
-
-### Remplacer Google Maps
-
-
 
 ### Remplacer Amazon
 
@@ -83,62 +40,6 @@ Et pour les autre société de livraison, bah elles sont toute pas top top mais 
 [[Choisir ou faire ses courses]]
 ### Media Culturels
 
-J'avais aucune idée de comment appeler cette partie mais en gros c'est comment ne pas dépendre d'Amazon, Netflix, Disney + etc... pour consommer des média. 
-
-C'est **Essentiel** de se réapproprier sa culture. S’intéresser a des nouveaux films, jeux, livre, artiste, etc... c'est aussi un acte militant. La culture, l'art et leur moyen de diffusion sont profondément politique et prendre de son temps perso pour parfaire sa culture quel qu'elle soit c'est ultra important. 
-
-PS : Je juge pas le type de culture ici vrmnt, regardez des dessin animé, du film d'auteur, écoutez des groupes ultra indé ou ultra mainstream, lisez des livre de plage ou des bouquin qui ont 2000 ans je m'en ballek mais c'est essentiel de nourrir et de stimuler votre cerveau. 
-#### Les initiatives locales 
-
-Allez dans une ==bibliothèque== c'est un game Changer. Genre GRATUITEMENT vous avez accès a des Livre, CD, Jeux, DVD etc... Et en général quand je parle a un.e bibliothécaire iels sont grave mimi et donnent des super conseils. 
-Y a un truc un peu beau aussi à avoir une collection limité d'oeuvre dans lesquels choisir. Genre ça pousse à découvrir des trucs plutôt que de passer 6 ans à chercher le film/le jeu parfait pour la soirée. Au pire c'est moyen ou nul mais c'est ok ça travail l'esprit critique aussi. 
-
-Rien qu'à Rennes (mon ter ter), on à [Les champs Libres](https://www.leschampslibres.fr/les-champs-libres/bibliotheque) : La plus grosse bibliothèque, accessible direct depuis le métro A.  Mais aussi 11 autres biblioteques un peu partout en ville. Je pense que il y en à forcément une pas loin de vous. 
-
-[Liste des bibliothèques de rennes](https://www.bibliotheques.rennes.fr/bibliotheques/)
-
-On peut aussi organiser des groupes de prêt ou de dons de livre/DVD/Jeux etc... et il y a pleins d'assos dont le but et le partage de la culture :) 
-#### Les médias gratuits et LEGAUX en ligne
-
-
-| Nom/Lien                                                        | Type     | Description                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [InternetArchive](https://archive.org/about/)                   | 🎮📖🎵📺 | Un COLLOSAL ensemble de trucs gratuit et dans le domaine public/sans copywrite en ligne. Vrmnt fouillez c'est génial                                                                                                                                                                             |
-| [Pluto](https://pluto.tv/)                                      | 📺       | Une webtv gratuite avec quelques option de streaming                                                                                                                                                                                                                                             |
-| [France TV](https://www.france.tv/)                             | 📺       | Same mais il faut un compte                                                                                                                                                                                                                                                                      |
-| [Molotov](https://www.molotov.tv/)                              | 📺       | Same                                                                                                                                                                                                                                                                                             |
-| [Arte](https://www.arte.tv/en/)                                 | 📺       | Same                                                                                                                                                                                                                                                                                             |
-| [Wikiflix](https://wikiflix.toolforge.org/#/)                   | 📺       | Mediatheque de film du domaine public.                                                                                                                                                                                                                                                           |
-| [Gog](https://www.gog.com/en/partner/free_games)                | 🎮       | Un concurrent a Steam qui donne des jeux sans drm et avec une collections de jeux gratuit dans l’intérêt de la preservation de la culture.                                                                                                                                                       |
-| [Epic Game Store](https://store.epicgames.com/free-games )      | 🎮       | Un ou 2 jeu gratuit par semaine et de temps en temps y a quand même des sacré bangers. Alors oui c'est la boite fortnite c'est pas du tout des saints et oui le DRM c'est caca mais vous pouvez les garder "A vie" (Tant que le service existe). (Le service existe aussi pour les jeux mobiles) |
-| [Abandonware](https://www.abandonware-france.org/index.php)     | 🎮       | Jeu dans le domaine public. Peut avoir des jeux jusqu'à 2022 (y a plus du 1995 que du 2022)                                                                                                                                                                                                      |
-| [Killed By a Pixel](https://frankforce.com/games/)              | 🎮       | Liste de jeux indés cools et gratuits                                                                                                                                                                                                                                                            |
-| [Indie Rentry](https://rentry.org/hhtxv7ud)                     | 🎮       | Pareille et jouez a Cave Story, VRAIMENT c'est un de mes jeux prefs                                                                                                                                                                                                                              |
-| [Humble Bundle](https://www.humblebundle.com/)                  | 🎮       | ALORS ce n'est pas un moyen gratuit de consomer des média mais c'est ma façon favorite d'avoir des jeux PC. C'est pas cher car les jeux sont en reduc en lien avec des charité bref c'est top en plus de nombreux jeux sont sans DRM. (Et des fois y a des reducs de 100%)                       |
-| [Itch.io](https://itch.io/)                                     | 🎮       | C'est un espece de steam alternatif ou tout le monde peut poster son jeu. Il y a pleins de pepite indé ou de jeux de jams gratuute allez voir ma page hihi                                                                                                                                       |
-| [Guntenberg](https://www.gutenberg.org/)                        | 📖       | Livre du domaine public                                                                                                                                                                                                                                                                          |
-| [Unglue](https://unglue.it/)                                    | 📖       | Livre du domaine public                                                                                                                                                                                                                                                                          |
-| [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil) | 📖       | Enorme bibliotheque en ligne                                                                                                                                                                                                                                                                     |
-| [Feedbooks](https://www.feedbooks.com/)                         | 📖       | En maintenance pour le moment                                                                                                                                                                                                                                                                    |
-
-#### Les roms/émulateurs
-
-Un émulateur est un logiciel qui va émuler une console sur un appareil numérique (portable ou pc principalement). C'est techniquement légale si vous possédez les jeux originaux chez vous *WINK WINK*. 
-
-Aujourd'hui la plupart des PC peuvent faire tourner des jeux jusqu’à 2010 sans soucis et la plupart des tels peuvent faire tourner des jeux de consoles portables sans soucis. (Game Boy, DS, et même 3DS pour les plus récent). C'est une bonne opportunité pour jouer a des jeux QUE VOUS POSSEDEZ BIEN EVIDEMENT CHEZ VOUS. 
-
-Vous pouvez vous renseigner sur quels émulateurs utiliser pour quels consoles ici : https://emulation.gametechwiki.com/index.php/Main_Page 
-
-Vous avez la liste des ressources pour trouver vos roms (vos jeux) ici : https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites
-
-Et un petit guide pour android ici : https://emulation.gametechwiki.com/index.php/Emulators_on_Android
-
-#### Les 7 Mers
-Dans un monde ou acheter n'est pas posséder certains disent que pirater n'est pas voler. Je ne peux pas vous dire si c'est morale ou non mais c'est illégal et c'est illégal de partager ces liens. 
-
-Je ne peut donc malheureusement pas vous dire de chercher le Reddit des ==tipiakerie== et de clicker sur le logo Wikipedia sur la page reddit pour avoir accès à une liste des site safe pour trouver des média piraté. Je ne peux pas non plus vous dire de vous renseigner sur ==FMHY== qui est la plus grande plateforme de partage de média libre en ligne; Légale ou non. 
-
-Attention quand même a vos PC pour tout ce qui est virus et tout. Si jamais sur FMHY ce que je vous déconseille évidement ils ont un guide pour comment voguer sur les 7 Mers avec le moins de risques possible.
 
 ## Niveau 2 : Prise en charge plus conséquente 
 
@@ -335,6 +236,11 @@ Globalement les changement d'une version Ubuntu à une autre sont assez mineur e
 
 ### Android 
 
+### Debloaté son téléphone portable
+
+
+
+### Changer d'Os
 De la même façon qu'on peut passer de Windows à Linux on peut passer d'Android ou IOs à un autre OS de téléphone portable. Je n'ai pas encore testé mais c'est prévu et dés que j'ai testé ça je mettrais à jour ici. 
 
 Si vous voulez faire vos propre recherches voici les OS les plus populaire que j'ai trouvé. 

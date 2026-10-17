@@ -1,28 +1,14 @@
 header:
-  - titles:
-      # @start locale config
-      en      : &EN       Archive
-      zh-Hans : &ZH_HANS  归档
-      zh-Hant : &ZH_HANT  歸檔
-      ko      : &KO       아카이브
-      fr      : &FR       Les petit tips
-      tr      : &TR       Arşivdekiler
-      # @end locale config
-    url: /QuickGuide/
-    children:
-      title: intro
-      url: /guide/intro
+  - title: Le Guide
+    url: /guide/intro
+  - title: Mes sources
+    url: /sources
+  - title: Outils
+    url: /outils
+  - title: Me Contacter
+    url: /contact
+  
 
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      zh-Hans : &ZH_HANS  关于
-      zh-Hant : &ZH_HANT  關於
-      ko      : &KO       소개
-      fr      : &FR       À propos
-      tr      : &TR       Hakkında
-      # @end locale config
-    url: /about.html
 
 guide-page:
   - title: Les Bases
@@ -39,23 +25,23 @@ guide-page:
       - title: Cartes
         url: /guide/cartes
       - title: Médias
-        url: /guide/intros
+        url: /guide/media
   - title: Intermédiaire
     children:
       - title: Productivité
-        url: /guide/intros
+        url: /guide/office
       - title: Notes
-        url: /guide/intros
+        url: /guide/notes
       - title: Mail
-        url: /guide/intros
-      - title: Cloud
-        url: /guide/intros
+        url: /guide/mail
+      - title: Drive - Cloud
+        url: /guide/drive
       - title: Telephone
-        url: /guide/intros
+        url: /guide/phone
 
   - title: Dur
     children:
       - title: Système d'exploitation (PC)
-        url: /guide/intros
+        url: /guide/ospc
       - title: Système d'exploitation (Mobile)
-        url: /guide/intros
+        url: /guide/osmobile
