@@ -2,7 +2,7 @@
 layout: article
 title: Bienvenue
 ---
-Sur mon **Guide Anti Big Tech**{:.yellow} ou vous trouverez des alternatives et des tips **anti big tech et pro alt tech.**{:.yellow} 
+Sur mon **Guide Anti Big Tech**{:.yellow}. Vous trouverez des alternatives et des tips **anti big tech et pro alt tech.**{:.yellow} 
 
 Ce site fait suite à un gros ras le bol de toujours donner mon argent et mes données aux même 4 pélo qui en font n'importe quoi. 
 
