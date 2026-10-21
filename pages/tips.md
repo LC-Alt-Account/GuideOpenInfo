@@ -8,6 +8,14 @@ sidebar:
   nav: guide-page
 ---
 
+ghost archive
+belingocat
+vpn
+
+briar
+bridgefy
+prismbreak
+
 
 Coucou ceci est une version *"Lecture Rapide"*{:.yellow} d'un guide sur lequel je travail pour trouver des alternatives aux GAFAM et aux grosse corpo. Il y a pleins de raisons géopolitique et sociales qui me font m'écarter de ces grosses entreprises. Je pense faire un plus gros guide avec plus de contexte géopolitique et tout mais on verra en temps et en heure. 
 
