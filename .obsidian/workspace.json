@@ -11,12 +11,14 @@
             "id": "1f072dd1fb72208a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/Apk.png"
+                "file": "pages/Guide/dur/12.Mobile.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Apk"
+              "icon": "lucide-file",
+              "title": "12.Mobile"
             }
           }
         ]
@@ -186,22 +188,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0bda952335a7808",
+  "active": "1f072dd1fb72208a",
   "lastOpenFiles": [
+    "pages/Guide/dur/11.PC.md",
+    "pages/Guide/dur/12.Mobile.md",
+    "pages/Guide/1,5.GuideRapide.md",
+    "guide/moteurs.md",
+    "_site/guide/moteurs.md",
+    "guide",
+    "pages/Guide/1.Intro.md",
+    "_site/guide/quick.html",
+    "pages/Guide/moyen/10.Application Telephone.md",
+    "_site/assets/images/Apk.jpg",
+    "assets/images/Apk.jpg",
+    "assets/images/Apk.png",
     "_site/assets/images/Apk.png",
     "assets/Untitled",
     "_site/assets/Pasted image 20261017204601.png",
-    "pages/Guide/moyen/10.Application Telephone.md",
     "_site/Pasted image 20261017204601.png",
-    "assets/images/Apk.png",
-    "pages/Guide/dur/11.PC.md",
     "pages/Guide/moyen/9.Drive.md",
     "pages/Guide/moyen/8.Mail.md",
     "pages/Guide/moyen/7.Notes.md",
     "pages/Guide/moyen/6.Productivité.md",
     "pages/Guide/facile/3.Navigateur.md",
     "pages/Guide/facile/2.Moteur-Recherche.md",
-    "pages/Guide/dur/12.Mobile.md",
     "_site/guide/osmobile.html",
     "_site/guide/phone.html",
     "_site/guide/drive.html",
@@ -209,13 +219,10 @@
     "_site/guide/notes.html",
     "_site/guide/mobile.html",
     "_site/guide/ospc.html",
-    "_site/guide/office.html",
     "Default Page.md",
     "pages/Guide/facile/5.Media.md",
     "pages/Guide/facile/4.Maps.md",
     "pages/tips.md",
-    "pages/Guide/1.Intro.md",
-    "_site/outils.html",
     "pages/Outils.md",
     "pages/Contact.md",
     "pages/Sources copy 2.md",
@@ -225,14 +232,9 @@
     "pages/Guide/Sources.md",
     "pages/Guide/Default Page copy.md",
     "pages/Guide/Default Page.md",
-    "pages/Guide/8.Mail.md",
-    "vendor/bundle/ruby/3.4.0/gems/json-3.1.0/README.md",
     "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/images/nav-bg.gif",
     "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/images/hr.gif",
     "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/images/bullet.png",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/fonts/OpenSans-SemiboldItalic-webfont.svg",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/fonts/OpenSans-Semibold-webfont.svg",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/fonts/OpenSans-Regular-webfont.svg",
-    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/fonts/OpenSans-LightItalic-webfont.svg"
+    "vendor/bundle/ruby/3.4.0/gems/jekyll-theme-midnight-0.2.0/assets/fonts/OpenSans-SemiboldItalic-webfont.svg"
   ]
 }

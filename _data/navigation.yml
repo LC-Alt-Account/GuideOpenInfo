@@ -11,17 +11,19 @@ header:
 
 
 guide-page:
-  - title: Les Bases
+  - title: Pour Commencer
     children:
       - title: Intro
         url: /guide/intro
+      - title: Guide Rapide
+        url: /guide/quick
 
   - title: Facile
     children:
       - title: Moteurs de recherche
         url: /guide/moteurs
       - title: Navigateurs
-        url: /guide/navigateurs
+        url: /guide/  
       - title: Cartes
         url: /guide/cartes
       - title: Médias
