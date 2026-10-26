@@ -15,6 +15,8 @@ guide-page:
     children:
       - title: Intro
         url: /guide/intro
+      - title: Ma Philosophie
+        url: /guide/philo
       - title: Guide Rapide
         url: /guide/quick
 
@@ -47,3 +49,13 @@ guide-page:
         url: /guide/ospc
       - title: Système d'exploitation (Mobile)
         url: /guide/osmobile
+
+  - title: Autre
+    children:
+      - title: Reseaux Sociaux
+        url: /guide/rs
+      - title: Sécurité
+        url: /guide/secu
+      - title: Anonymat
+        url: /guide/anonymat
+        
