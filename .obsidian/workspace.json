@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Guide/dur/12.Mobile.md",
+                "file": "pages/Guide/moyen/9.Drive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.Mobile"
+              "title": "9.Drive"
             }
           }
         ]
@@ -190,6 +190,10 @@
   },
   "active": "1f072dd1fb72208a",
   "lastOpenFiles": [
+    "pages/Guide/moyen/8.Mail.md",
+    "pages/Guide/facile/2.Moteur-Recherche.md",
+    "pages/Guide/facile/3.Navigateur.md",
+    "pages/Guide/dur/12.Mobile.md",
     "pages/Guide/dur/11.PC.md",
     "pages/Guide/autre/14. Le Combo Sécurité.md",
     "pages/Guide/autre/13. Resaux Sociaux.md",
@@ -204,7 +208,6 @@
     "_site/pages/Guide",
     "_site/pages",
     "_site/guide/philosophie.html",
-    "pages/Guide/dur/12.Mobile.md",
     "guide/moteurs.md",
     "_site/guide/moteurs.md",
     "guide",
@@ -218,11 +221,8 @@
     "_site/assets/Pasted image 20261017204601.png",
     "_site/Pasted image 20261017204601.png",
     "pages/Guide/moyen/9.Drive.md",
-    "pages/Guide/moyen/8.Mail.md",
     "pages/Guide/moyen/7.Notes.md",
     "pages/Guide/moyen/6.Productivité.md",
-    "pages/Guide/facile/3.Navigateur.md",
-    "pages/Guide/facile/2.Moteur-Recherche.md",
     "Default Page.md",
     "pages/Guide/facile/5.Media.md",
     "pages/Guide/facile/4.Maps.md",
